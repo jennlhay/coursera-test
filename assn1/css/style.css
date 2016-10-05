@@ -9,7 +9,7 @@ body {
 h1 {
 	text-align: center;
 	font-size: 175%;
-	margin-bottom: 30px;
+	margin-bottom: 5%;
 }
 
 h2 {
@@ -17,8 +17,10 @@ h2 {
   float: right;
   border: 1px solid black;
   margin: 0;
-  padding: 10px;
-  font-size: 125%;
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-top: 1%;
+  padding-bottom: 1%;
 }
 
 #left {
@@ -36,15 +38,14 @@ h2 {
 .container {
   border: 1px solid black;
   background-color: yellow;
-  width: 90%;
-  margin-right: auto;
-  margin-left: auto;
-  margin-bottom: 10%;
+  margin-right: 10px;
+  margin-left: 10px;
+  margin-bottom: 20px;
   overflow: hidden;
 }
 
 p {
-  padding-top: 15px;
+  padding-top: 2.5%;
 	font-size: 100%;
   clear: right;
 }
@@ -135,7 +136,7 @@ p {
   .col-md-12 {
     width: 100%;
   }
-}
+} 
 
 @media (max-width: 767px) {
   .col-xs-1, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9, .col-xs-10, .col-xs-11, .col-xs-12 {
@@ -177,4 +178,3 @@ p {
     width: 100%;
   }
 }
-
