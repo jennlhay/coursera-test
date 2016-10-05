@@ -46,7 +46,8 @@ h2 {
 
 p {
   padding: 10px;
-	font-size: 100%;
+  padding-bottom: 0;
+  font-size: 100%;
   clear: right;
 }
 
