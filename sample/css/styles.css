@@ -3,10 +3,6 @@ body {
 	margin:auto;
 }
 
-.jumbotron {
-	margin-bottom:0;
-	}
-
 a:link {
 	background-color: #f44336;
     color: white;
@@ -30,13 +26,14 @@ a:hover {
     display: inline-block;
 }
 
-.jumbotron {
-	color: black;
-}
-
 img {
 	width:100%;
 }
+
+.jumbotron {
+	margin-bottom:0;
+	color:black;
+	}
 
 .left {
 	padding:20px 15px 20px 15px;
