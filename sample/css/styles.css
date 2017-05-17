@@ -51,5 +51,6 @@ img {
 }
 
 .footer {
-	font-size:60%;
+	font-size:75%;
+	float:right;
 }
